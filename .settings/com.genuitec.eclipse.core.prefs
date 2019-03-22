@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/common,WebRoot/ckfinder2.3,WebRoot/ckeditor4.4.4,WebRoot/blog/js,WebRoot/WEB-INF/blog/blogView/date.jsp
+validator.Revalidate=true
+validator.Unchecked=
